@@ -11,16 +11,6 @@ PAX_TERMINAL.exe (Circle)
 =>U=Circle
 =>P=DEEPNOISE
 
-PAX_TERMINAL.exe (Kain)
+PAX_TERMINAL.exe (Kain) (возможно понадобится терминал для входа)
 =>U=Kain
 =>P=CL19
-=======
->U=MCD
->P=CLEANERS
-PAX_TERMINAL.exe
->U=Circle
->P=DEEPNOISE
-PAX_TERMINAL.exe (возможно понадобится терминал для входа)
->U=Kain
->P=CL19
-
