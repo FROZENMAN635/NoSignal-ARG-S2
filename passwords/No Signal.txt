@@ -1,0 +1,26 @@
+ARG NoSignal S2
+Первый день
+
+Все найденые коды сайта https://craftov.github.io/terminal/ (в порядке нахождения)
+
+MCD_NETWORK_6.2.3
+=>U=MCD
+=>P=CLEANERS
+
+PAX_TERMINAL.exe (Circle)
+=>U=Circle
+=>P=DEEPNOISE
+
+PAX_TERMINAL.exe (Kain)
+=>U=Kain
+=>P=CL19
+=======
+>U=MCD
+>P=CLEANERS
+PAX_TERMINAL.exe
+>U=Circle
+>P=DEEPNOISE
+PAX_TERMINAL.exe (возможно понадобится терминал для входа)
+>U=Kain
+>P=CL19
+

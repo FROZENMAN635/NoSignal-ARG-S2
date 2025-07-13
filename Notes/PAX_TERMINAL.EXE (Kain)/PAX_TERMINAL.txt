@@ -1,0 +1,5 @@
+PAX_TERMINAL.exe - ACCESS LEVEL: CONTAINMENT
+
+Добро пожаловать, К.Э.
+
+файлы находятся в папке
